@@ -1,0 +1,95 @@
+#fondo1{
+    background-image: url("fotos/1.png");
+    background-size: cover;
+    height: 1110px;
+}
+#fondo2{
+    /* background-image: url("fotos/2.png");
+    background-size: cover;
+    height: 1110px; */
+    background-image: url(fotos/2.png);
+    background-size: cover;
+    height: 1100px;
+    margin-top: -45px;
+}
+.fondo3{
+    background-image: url("fotos/3.png");
+    background-size: cover;
+    height: 1110px;
+    margin-top: -84px;
+}
+.fondo4{
+    background-image: url("fotos/4.png");
+    background-size: cover;
+    height: 1110px;
+    margin-top: -45px;
+}
+.fondo5{
+    background-image: url("fotos/5.png");
+    background-size: cover;
+    height: 1110px;
+    
+}
+.fondo6{
+    background-image: url("fotos/6.png");
+    background-size: cover;
+    height: 1110px;
+}
+.fondo7{
+    background-image: url("fotos/7.png");
+    background-size: cover;
+    height: 1110px;
+    margin-top: -19px;
+}
+.power{
+    height: 35px;
+    /* padding: 763px;
+    margin-left: 190px; */
+}
+#grid {
+    display: grid;
+    height: 100px;
+    grid-template-columns: repeat(2, ifr);
+}
+#input1{
+    /* margin: 586px 17px 9px 334px; */
+}
+#inputdepositar{
+}
+.botonazul{
+    margin: 1024px 18px 20px 712px;
+}
+.tarjeta{
+    margin: 600px 10px 10px 932px;
+}
+.retirar{
+    margin: 606px 10px 10px 679px;
+}
+.p{
+    margin: -150px 22px 25px 564px;
+}
+.btn-outline-pink {
+    --bs-btn-color: #db00da;
+    --bs-btn-border-color: #e303e2;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #fe59ff;
+    --bs-btn-hover-border-color: #ee86ff;
+    --bs-btn-focus-shadow-rgb: 13, 110, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #ff72e0;
+    --bs-btn-active-border-color: #cb0dfd;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #ff7af3;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #801aff;
+    --bs-gradient: none;
+  }
+  #section1{
+    padding: 528px 15px 10px 520px;
+  }
+  #section2{
+    padding: 12px 10px 5px 536px;
+  }
+  .powerbutton{
+    
+  }
